@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1639330808 source:d:\code blocks  udemy ders notlarý\c\if else\restoran menüsü\menü\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1639142912 source:d:\code blocks  udemy ders notlarý\c\if else\hesap makinesi Örneði\hesap makinesi udemy Örnek\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<math.h>
+
